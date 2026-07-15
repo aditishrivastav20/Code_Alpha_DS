@@ -55,6 +55,3 @@ plt.title("Correlation Matrix")
 plt.show()
 sns.pairplot(data, hue="Species")
 plt.show()
-
-sns.pairplot(data, hue="Species")
-plt.show()
