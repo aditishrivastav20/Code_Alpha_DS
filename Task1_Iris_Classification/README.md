@@ -111,3 +111,19 @@ The project generates:
 Submitted for:
 
 **CodeAlpha Data Science Internship**
+## 📸 Project Screenshots
+
+### 1. Scatter Plot
+![Scatter Plot](screenshots/scatter_plot.png)
+
+### 2. Bar Graph
+![Bar Graph](screenshots/bar_graph.png)
+
+### 3. Correlation Heatmap
+![Correlation Heatmap](screenshots/correlation_heatmap.png)
+
+### 4. Pairplot
+![Pairplot](screenshots/pairplot.png)
+
+### 5. Confusion Matrix
+![Confusion Matrix](screenshots/confusion_matrix.png)
